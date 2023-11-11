@@ -1,0 +1,5 @@
+Bill breakdown:
+Chips:                    ...$2.99
+Soup:                     ...$5.99
+tip:                      ...$3
+total:                    ...$11.98
